@@ -9,7 +9,7 @@ Return the final string after all operations.
 
  
 
-** Example 1: **
+**Example 1:**
 ```
 Input: s = "abc", shift = [[0,1],[1,2]]
 Output: "cab"
@@ -18,7 +18,7 @@ Explanation:
 [1,2] means shift to right by 2. "bca" -> "cab"
 ```
 
-** Example 2: **
+**Example 2:**
 ```
 Input: s = "abcdefg", shift = [[1,1],[1,1],[0,2],[1,3]]
 Output: "efgabcd"
