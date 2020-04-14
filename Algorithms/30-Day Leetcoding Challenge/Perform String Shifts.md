@@ -75,5 +75,5 @@ class Solution {
 ```
 
 **Complexity analysis:**
-* Time : O(n) - binary search.
+* Time : O(n)
 * Space : O(n) for the returned String
