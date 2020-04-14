@@ -52,7 +52,7 @@ class Solution {
 }
 ```
 
-** Complexity analysis: **
+**Complexity analysis:**
 * Time : total O(nlogn) - O(n) for maxHeap construction and O(nlogn) for removing and adding to heap.
 * Space : O(n) for maxHeap
 
